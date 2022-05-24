@@ -1,0 +1,19 @@
+search for xampp on your desktop and press enter 
+Then start apache 
+then click on mysql start and click on admin 
+A phpmyadmin page will open click on new 
+and create your database give it a name as employee
+then click okay 
+click on new under the database name and create table
+input employers as the table name and 
+enter 7 as the number of rows
+first row 
+id datatype varchar length 10 and scroll to the right to tick AI
+firstname varchar length 100
+lastname varchar length 100
+username varchar length 100
+password varchar length 100
+address varchar length 100
+contact int length 20
+
+and click okay enjoy 
